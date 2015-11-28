@@ -7,6 +7,6 @@
 - Reach the other end to earn more points!
 - You have 3 lives
 
-*P.S. I will be the final boss*
+*P.S. The final boss has been updated*
 
 **Good Luck !**
