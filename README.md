@@ -1,6 +1,7 @@
 # Rise-of-the-Saiyans
 ## This is a html game based on the story of Dragon Balls.
 **Quick Play**
+======
 http://hang-wang.github.io/Rise-of-the-Saiyans/
 
 **How to Run this Game**
