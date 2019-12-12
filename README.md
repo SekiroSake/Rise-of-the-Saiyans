@@ -2,7 +2,7 @@
 ## This is a html game based off the story of Dragon Balls.
 **Quick Play**
 ------
-http://hang-wang.github.io/Rise-of-the-Saiyans/
+http://hash-logic.github.io/Rise-of-the-Saiyans/
 
 **How to Run this Game**
 - Open index.html to play this game
